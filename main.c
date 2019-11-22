@@ -1,3 +1,11 @@
+/*
+
+Exemplo com base em questionamento:
+https://pt.stackoverflow.com/questions/422858/alguem-sabe-fazer-esse-exercicio-de-linguagem-c-sobre-matrizes
+Obs: O mesmo requer revisão, visto que faltam elementos na questão
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
